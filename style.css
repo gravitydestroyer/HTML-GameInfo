@@ -1,0 +1,77 @@
+a{
+	text-decoration: none;
+	color: red;
+}
+body
+{
+	font-family: Helvetica,Arial,sans-serif;
+	background-image: url("res.jpg");
+}
+
+#HEADER
+{
+	font-family: "Times New Roman", Georgia, Serif;
+    font-size: 150%;
+	background-color: #463E3D;
+	color: white;
+	text-align:center; 
+	background-image: url("red.jpg");
+
+}
+
+#yo
+{
+	background-image: url("abs.png");
+
+	height: 580px;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#class
+{
+	padding: 30px;
+
+
+}
+#navigation
+{
+
+background-image: url(red.jpg);
+color: white;
+width: 200px;
+float: left;
+height: 430px;
+}
+#content
+{
+	background-image: url(red.jpg);
+	color: white;
+	width: 720px;
+	height: 460px;
+	float: right;
+	padding-bottom: 2
+
+}
+.selected
+{
+
+	font-weight: bold;
+}
+
+
+
+#Copyright
+{
+	clear: both;
+	padding-bottom: 10px;
+	background-color: #463E3D;
+	color: white;
+	text-align: center;
+		background-image: url("red.jpg");
+}
+
+#one
+{
+	background-color: white;
+}
